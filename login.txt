@@ -1,0 +1,4 @@
+admin:password123
+user1:rahasia
+test:test123
+niko:gibran
